@@ -1,0 +1,7 @@
+{
+  "name": "Asha AI Voice Assistant",
+  "description": "A voice-enabled reporting assistant for rural health workers in India. Capture and transcribe reports in English or regional languages through a natural conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
